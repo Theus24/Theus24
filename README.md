@@ -36,3 +36,4 @@
 
 ### Pacman Contribution Graph
 ![Pacman Contribution Graph](https://raw.githubusercontent.com/Theus24/Theus24/output/pacman-contribution-graph.svg)
+
