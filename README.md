@@ -1,27 +1,28 @@
-# 🚀 GitHub Status
+# Olá, eu sou o Matheus 👋  
+
+---
+
+## 🚀 GitHub Status  
 
 <table>
   <tr>
-    <!-- Coluna da esquerda: Projetos -->
-    <td width="50%" valign="top">
-      
-      ## 📂 Meus Projetos
-
-      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Theus24&repo=CMSP-Plataformas-Hacks&theme=dark)](https://github.com/Theus24/CMSP-Plataformas-Hacks)
-
-      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Theus24&repo=WPlace-AutoBOT&theme=dark)](https://github.com/Theus24/WPlace-AutoBOT)
-    
+    <!-- Últimos Projetos -->
+    <td valign="top" width="50%">
+      <h3>📂 Últimos Projetos</h3>
+      <ul>
+        <li><a href="https://github.com/Theus24/projeto1">Projeto 1</a></li>
+        <li><a href="https://github.com/Theus24/projeto2">Projeto 2</a></li>
+      </ul>
     </td>
-
-    <!-- Coluna da direita: Estatísticas -->
-    <td width="50%" valign="top">
-
-      ## 📊 Estatísticas
-
-      ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Theus24&show_icons=true&theme=dark&count_private=true)  
-      ![Streak Stats](https://streak-stats.demolab.com?user=Theus24&theme=dark&hide_border=false)  
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theus24&theme=dark&layout=compact)  
-
+    
+    <!-- Total de estrelas -->
+    <td valign="top" width="50%">
+      <h3>⭐ Total de Estrelas</h3>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Theus24?affiliations=OWNER&style=for-the-badge" />
+      </p>
     </td>
   </tr>
 </table>
+
+---
