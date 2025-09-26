@@ -34,8 +34,5 @@
 # 📊 Status:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Theus24&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Theus24/Theus24/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Theus24/Theus24/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Theus24/Theus24/output/pacman-contribution-graph.svg">
-</picture>
+### Pacman Contribution Graph
+![Pacman Contribution Graph](https://raw.githubusercontent.com/Theus24/Theus24/output/pacman-contribution-graph.svg)
