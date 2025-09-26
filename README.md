@@ -5,11 +5,11 @@
 ###
 
 # 💫 Sobre mim:
-🔭| Atualmente trabalhando em projetos pessoais.<br>
-👯| Aberto para colaborar em projetos open-source e iniciantes<br>
-📖| Atualmente aprendendo React, Node.js, APIs REST e bancos de dados relacionais.<br>
-💬| Pergunte-me sobre tecnologia, idiomas e autodesenvolvimento.<br>
-⚡| fato curioso: Sabia que os tubarões existem antes das árvores? Eles estão na Terra há mais de 400 milhões de anos.
+🔭| ᴀᴛᴜᴀʟᴍᴇɴᴛᴇ ᴛʀᴀʙᴀʟʜᴀɴᴅᴏ ᴇᴍ ᴘʀᴏᴊᴇᴛᴏꜱ ᴘᴇꜱꜱᴏᴀɪꜱ.<ʙʀ>
+👯| ᴀʙᴇʀᴛᴏ ᴘᴀʀᴀ ᴄᴏʟᴀʙᴏʀᴀʀ ᴇᴍ ᴘʀᴏᴊᴇᴛᴏꜱ ᴏᴘᴇɴ-ꜱᴏᴜʀᴄᴇ ᴇ ɪɴɪᴄɪᴀɴᴛᴇꜱ<ʙʀ>
+📖| ᴀᴛᴜᴀʟᴍᴇɴᴛᴇ ᴀᴘʀᴇɴᴅᴇɴᴅᴏ ʀᴇᴀᴄᴛ, ɴᴏᴅᴇ.ᴊꜱ, ᴀᴘɪꜱ ʀᴇꜱᴛ ᴇ ʙᴀɴᴄᴏꜱ ᴅᴇ ᴅᴀᴅᴏꜱ ʀᴇʟᴀᴄɪᴏɴᴀɪꜱ.<ʙʀ>
+💬| ᴘᴇʀɢᴜɴᴛᴇ-ᴍᴇ ꜱᴏʙʀᴇ ᴛᴇᴄɴᴏʟᴏɢɪᴀ, ɪᴅɪᴏᴍᴀꜱ ᴇ ᴀᴜᴛᴏᴅᴇꜱᴇɴᴠᴏʟᴠɪᴍᴇɴᴛᴏ.<ʙʀ>
+⚡| ꜰᴀᴛᴏ ᴄᴜʀɪᴏꜱᴏ: ꜱᴀʙɪᴀ Qᴜᴇ ᴏꜱ ᴛᴜʙᴀʀÕᴇꜱ ᴇxɪꜱᴛᴇᴍ ᴀɴᴛᴇꜱ ᴅᴀꜱ Áʀᴠᴏʀᴇꜱ? ᴇʟᴇꜱ ᴇꜱᴛÃᴏ ɴᴀ ᴛᴇʀʀᴀ ʜÁ ᴍᴀɪꜱ ᴅᴇ 400 ᴍɪʟʜÕᴇꜱ ᴅᴇ ᴀɴᴏꜱ.
 
 ## 🌐 Sociais:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/QhhHCpKPjX) 
