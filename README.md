@@ -46,25 +46,6 @@
   </a>
 </div>
 
-###
-<p align="center"><strong>GitHub Status</strong></p>
-
-| <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=40&&duration=1&pause=2000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1000&height=60&lines=%F0%9F%93%81+%7C+Meus+Projetos%3A"/></a> 
-<p align="center">
-  <a href="https://github.com/Theus24/NOME-DO-PROJETO-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Theus24&repo=NOME-DO-PROJETO-1&theme=github_dark&border_color=30363f&border_radius=0"/>
-  </a> 
-</p>
-<p align="center">
-  <a href="https://github.com/Theus24/NOME-DO-PROJETO-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Theus24&repo=NOME-DO-PROJETO-2&theme=github_dark&border_color=30363f&border_radius=0"/>
-  </a>
-</p> 
-| <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Theus24&show_icons=true&hide_border=true&theme=github_dark&border_radius=0&border_color=30363d&hide_title=true&locale=pt-br&card_width=550"/></a> 
-<a href="#"><img src="https://streak-stats.demolab.com/?user=Theus24&hide_border=true&theme=github-dark-blue&border_radius=0&border=30363d&locale=pt-BR&card_width=550"/></a> |
-|--|--|
-
-<br>
 ### Pacman Contribution Graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Theus24/Theus24/output/pacman-contribution-graph-dark.svg">
