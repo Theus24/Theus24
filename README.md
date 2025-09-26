@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="150" src="https://media.tenor.com/MXmL5U68oIQAAAAi/gato-giovannamagnusjunior.gif"  />
+</div>
+
+###
+
 # 💫 Sobre mim:
 🔭| Atualmente trabalhando em projetos pessoais.<br>
 👯| Aberto para colaborar em projetos open-source e iniciantes<br>
