@@ -1,16 +1,16 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 🔭| Atualmente trabalhando em projetos pessoais.<br>
 👯| Aberto para colaborar em projetos open-source e iniciantes<br>
 📖| Atualmente aprendendo React, Node.js, APIs REST e bancos de dados relacionais.<br>
 💬| Pergunte-me sobre tecnologia, idiomas e autodesenvolvimento.<br>
 ⚡| fato curioso: Sabia que os tubarões existem antes das árvores? Eles estão na Terra há mais de 400 milhões de anos.
 
-## 🌐 Socials:
+## 🌐 Sociais:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/QhhHCpKPjX) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mtheusz._) 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mtts.z) 
 
-# 💻 Tech Stack:
+# 💻 Language and tools:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
@@ -31,9 +31,15 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📊 Status:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Theus24&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
-### Pacman Contribution Graph
-### Pacman Contribution Graph
-![Pacman Contribution Graph](https://raw.githubusercontent.com/Theus24/Theus24/output/pacman-contribution-graph.svg)
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouzae/maurodesouzae/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouzae/maurodesouzae/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouzae/maurodesouzae/output/pacman-contribution-graph.svg">
+</picture>
+
+###
