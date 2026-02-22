@@ -40,11 +40,6 @@
 # 📊 Status:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Theus24&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
-<div align="left">
-  <a href="https://open.spotify.com/user/31pcxhek7prs7nbg4fjt2f5lyiwe">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31pcxhek7prs7nbg4fjt2f5lyiwe&count=4&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ### Pacman Contribution Graph
 <picture>
