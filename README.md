@@ -40,7 +40,6 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) 
 
 ---
----
 
 ### 🕹️ Pacman Contribution Graph
 <picture>
