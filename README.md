@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/92835674-265e-43cd-93c5-55ba966bc766.png" width="300">
+  <img src="./assets/gato.png" width="300">
 </div>
 
 <h1 align="center">Matheus Garcia 👋</h1>
