@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/gato.png" width="300">
+  <img src="https://raw.githubusercontent.com/Theus24/Theus24/main/.assets/gato.png" width="300">
 </div>
 
 <h1 align="center">Matheus Garcia 👋</h1>
