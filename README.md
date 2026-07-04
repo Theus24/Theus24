@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://chatgpt.com/backend-api/estuary/content?id=file_000000000774720e92ec48933e98ce2e&ts=495314&p=fs&cid=1&sig=1dfdaba3c6321573c5eb381467eb8c561812b7602a8175e58d8bd8e5c7e87376&v=0"/>
+  <img height="200" src="https://i.pinimg.com/736x/37/54/e7/3754e788595afa01438fa781611ba73c.jpg"/>
 </div>
 
 <h1 align="center">Matheus Garcia 👋</h1>
