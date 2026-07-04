@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://ibb.co/mrPqGQ8z"/>
+  <img src="./assets/92835674-265e-43cd-93c5-55ba966bc766.png" width="300">
 </div>
 
 <h1 align="center">Matheus Garcia 👋</h1>
